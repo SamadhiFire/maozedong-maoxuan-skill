@@ -370,7 +370,7 @@ git clone https://github.com/SamadhiFire/xinqingnian-maoxuan-skill.git ~/.codex/
 
 ### 其他平台
 
-不是每个平台都叫 skill，但大多数 agent 平台都支持“自定义系统提示词 / 自定义技能目录 / 项目级规则”。
+不是每个平台都叫 skill，但大多数 agent 平台都会支持“自定义系统提示词 / 自定义技能目录 / 项目级规则”。
 
 最省事的用法（大部分平台都很聪明了）：
 
